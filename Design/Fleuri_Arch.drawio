@@ -4,8 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TKdbyDsrvAXu3UR6191E-2" value="" style="shape=mxgraph.cisco.people.androgenous_person;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="TKdbyDsrvAXu3UR6191E-2" value="" style="shape=mxgraph.cisco.people.androgenous_person;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="70" y="70" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="6jsAId-AfkdS_IAZTBg5-1" value="" style="shape=mxgraph.cisco.people.androgenous_person;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="70" width="69" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="6jsAId-AfkdS_IAZTBg5-2" value="Local DB&lt;br&gt;SQLite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6jsAId-AfkdS_IAZTBg5-3" value="Wireshark&lt;br&gt;Traffic Monitoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="102" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6jsAId-AfkdS_IAZTBg5-5" value="Wireshark&lt;br&gt;Traffic Monitoring" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="102" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
