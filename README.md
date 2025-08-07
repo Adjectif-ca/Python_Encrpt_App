@@ -1,4 +1,14 @@
-<img width="1024" height="1024" alt="IMG" src="https://github.com/user-attachments/assets/42f373ca-6885-4d11-9f53-1e735324f21d" />
+|
+|
+|
+|
+|
+|
+|
+|
+|
+<img width="1024" height="594" alt="IMG" src="https://github.com/user-attachments/assets/505548cf-8e80-4d23-bfc2-f75b7814c382" />
+
 Privacy Flower app :')
 
 
